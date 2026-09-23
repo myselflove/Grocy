@@ -14,19 +14,6 @@ Get the latest production-ready APK directly from GitHub Releases:
 
 ---
 
-## 📱 Screenshots
-
-<!-- Replace placeholders below with your actual screenshot URLs -->
-| Home / Catalog | Blinkit Detail & Zoom | Purchase List | Recycle Bin (15-Day) |
-| :---: | :---: | :---: | :---: |
-| ![Home Screen](docs/screenshots/home.png) | ![Product Detail](docs/screenshots/detail.png) | ![Purchase Cart](docs/screenshots/cart.png) | ![Recycle Bin](docs/screenshots/recycle_bin.png) |
-
-| Kirana Calculator | Admin Management | Store Header & Theme | In-App Update |
-| :---: | :---: | :---: | :---: |
-| ![Calculator](docs/screenshots/calculator.png) | ![Admin Panel](docs/screenshots/admin.png) | ![Theme Toggle](docs/screenshots/dark_mode.png) | ![App Update](docs/screenshots/update.png) |
-
----
-
 ## 🌟 Features
 
 ### 📦 Product & Category Catalog
@@ -73,7 +60,7 @@ Get the latest production-ready APK directly from GitHub Releases:
 ### 🔒 Security & Admin Controls
 - **Biometric Authentication**: Fingerprint and Face Unlock integration via AndroidX Biometric.
 - **Owner-Device Recognition**: Hidden multi-tap gesture (6-tap sequence) to register authorized owner devices.
-- **Salted PIN Verification**: Fixed fallback admin PIN (`8810`) and PBKDF2 hash verification protecting admin functions.
+- **Salted PIN Verification**: Fixed fallback admin PIN and PBKDF2 hash verification protecting admin functions.
 
 ### 🧮 Kirana Calculator
 - **Dual-Mode Grocery Calculator**:
